@@ -1,0 +1,28 @@
+.headerSlider {
+    background-color: rgb(52, 46, 46);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.formContainer {
+    background-color: aliceblue;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.buttonForm {
+    width: 50%;
+    background-color: rgb(52, 46, 46) !important;
+    color: white !important;
+    font-weight: bolder !important;
+}
+
+.textAreaa {
+    resize: none !important;
+}

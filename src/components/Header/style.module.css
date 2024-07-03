@@ -1,0 +1,22 @@
+.headContainer {
+    margin-top: 10px;
+    padding: 20px;
+    position: relative;
+}
+.opacityContainer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    z-index: -1;
+    opacity: 0.4;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(92, 41, 5) !important;
+    
+}
